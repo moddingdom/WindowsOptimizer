@@ -1,5 +1,5 @@
 @echo off
-title WindowsOptimizer by domm#0072
+title Windows Optimizer by domm#0072
 echo This will delete all Temp Files, Disable Windows Defender & Disables Useless Windows Services.
 echo Press Ctrl+C to exit or
 pause
